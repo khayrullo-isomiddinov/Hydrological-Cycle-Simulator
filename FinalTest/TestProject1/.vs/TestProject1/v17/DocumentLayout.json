@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harry\\Desktop\\quatre\\OOP\\done\\Assignment 2\\FinalTest\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C4B73B-21E1-41E4-A3D6-6F549C681C94}|TestProject1.csproj|c:\\users\\harry\\desktop\\quatre\\oop\\done\\assignment 2\\finaltest\\testproject1\\simulationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C4B73B-21E1-41E4-A3D6-6F549C681C94}|TestProject1.csproj|solutionrelative:simulationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\quatre\\OOP\\done\\Assignment 2\\FinalTest\\TestProject1\\SimulationTest.cs",
+              "RelativeDocumentMoniker": "SimulationTest.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\quatre\\OOP\\done\\Assignment 2\\FinalTest\\TestProject1\\SimulationTest.cs",
+              "RelativeToolTip": "SimulationTest.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAIwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:14:07.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
